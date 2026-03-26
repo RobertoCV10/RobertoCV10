@@ -2,8 +2,7 @@
 
 # Hi there, I'm Roberto Coria 👋 
 
-### ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=probot&logoColor=white)
- Computational Robotics Engineer | Full Stack Developer
+### ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=probot&logoColor=white) Computational Robotics Engineer | Full Stack Developer
 I specialize in bridging the gap between hardware and software, creating autonomous systems, real-time telemetry, and high-performance web applications.
 
 ---
