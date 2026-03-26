@@ -58,7 +58,7 @@ I specialize in bridging the gap between hardware and software, creating autonom
 ### [Rocket Telemetry System](https://github.com/RobertoCV10/Rocket-data-monitoring-interface-using-ESP32-and-LoRa-)
 *Real-time data monitoring for experimental rockets using LoRa and Python.*
 
-### [Autonomous cart with arm]([https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino))
+### [Autonomous cart with arm](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino)
 *Autonomous and manual control system using ROS and Raspberry Pi.*
 
 ---
