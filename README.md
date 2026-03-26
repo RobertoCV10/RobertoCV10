@@ -10,10 +10,18 @@ I specialize in bridging the gap between hardware and software, creating autonom
 ## 🚀 About Me
 - 🎓 **Education:** Engineering at Universidad Politécnica de Yucatán (UPY).
 - 🛠️ **Current Focus:** Developing "Zero Trail", a premium electric vehicle catalog and database.
-- 🔭 **Expertise:** Robotics (ROS, 6-Axis Arms), Embedded Systems (ESP32, Arduino), and MERN Stack.
+- 🔭 **Expertise:** Robotics (ROS, 3D modeling, Control systems, Machine learning), Embedded Systems (ESP32, Arduino, Raspberry Pi).
 - ⚡ **Goal:** Building scalable and efficient solutions with a focus on professional UI/UX.
 
 ---
+
+## 🛠️ PORTFOLIO
+
+### 💻 Portfolio
+### [Web Portfolio](https://portfolio-rcv.vercel.app/)
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -38,21 +46,20 @@ I specialize in bridging the gap between hardware and software, creating autonom
 ### ⚙️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
+### [Zero Trail - EV Catalog](https://github.com/RobertoCV10/PortfolioRCV)
+*A high-end electric vehicle database built with the MERN stack and professional UI.*
+
 ### [Rocket Telemetry System](https://github.com/RobertoCV10/Rocket-data-monitoring-interface-using-ESP32-and-LoRa-)
 *Real-time data monitoring for experimental rockets using LoRa and Python.*
 
-### [6-Axis Robotic Arm "Yesenia"](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino)
+### [Autonomous cart with arm]([https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino))
 *Autonomous and manual control system using ROS and Raspberry Pi.*
-
-### [Zero Trail - EV Catalog](https://github.com/RobertoCV10/PortfolioRCV)
-*A high-end electric vehicle database built with the MERN stack and professional UI.*
 
 ---
 
