@@ -7,7 +7,7 @@ I specialize in bridging the gap between hardware and software, creating autonom
 
 ---
 
-![Robot](https://img.shields.io/badge/irobot-%23000000?style=for-the-badge&logo=irobot&logoColor=white)
+![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=irobot&logoColor=white)
 
 ## 🚀 About Me
 - 🎓 **Education:** Engineering at Universidad Politécnica de Yucatán (UPY).
