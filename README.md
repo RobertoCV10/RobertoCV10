@@ -57,7 +57,6 @@ I specialize in bridging the gap between hardware and software, creating autonom
 ---
 
 ## 📊 GitHub Stats
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoCV10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCV10&layout=compact&theme=tokyonight)
 
 ---
