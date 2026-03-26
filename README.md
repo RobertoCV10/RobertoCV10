@@ -2,10 +2,12 @@
 
 # Hi there, I'm Roberto Coria 👋 
 
-### 🤖 Computational Robotics Engineer | Full Stack Developer
+### () Computational Robotics Engineer | Full Stack Developer
 I specialize in bridging the gap between hardware and software, creating autonomous systems, real-time telemetry, and high-performance web applications.
 
 ---
+
+![Robot](https://img.shields.io/badge/robotframework-#000000?style=for-the-badge&logo=SimpleIconName&logoColor=white)
 
 ## 🚀 About Me
 - 🎓 **Education:** Engineering at Universidad Politécnica de Yucatán (UPY).
