@@ -16,7 +16,7 @@ I am a **Computational Robotics Engineer** focused on the integration of hardwar
 
 I specialize in designing the entire pipeline: from sensor selection and embedded firmware to API development and data visualization dashboards. This end-to-end approach allows me to understand physical hardware constraints and optimize them through efficient software.
 
-Currently finishing my degree at **Universidad Politécnica de Yucatán (UPY)** while delivering personal projects built to professional standards.
+Currently finished my degree at **Universidad Politécnica de Yucatán (UPY)**
 
 ---
 
