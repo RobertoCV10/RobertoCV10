@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Quick Summary
+## Quick summary
 
 I am a **Computational Robotics Engineer** focused on the integration of hardware and software. My work ranges from developing autonomous systems for real-world environments to building full-stack web platforms that handle real-time telemetry data.
 
@@ -20,14 +20,14 @@ Currently finishing my degree at **Universidad Politécnica de Yucatán (UPY)** 
 
 ---
 
-## 🏗️ Current Work
+## Current work
 
 ### Zero Trail — Electric Vehicle Catalog & Database
 A high-performance EV catalog and comparison platform built with the **MERN stack**. Key focus: solid data architecture, optimized search, and a UI that matches the premium standards of the automotive industry. This isn't just a CRUD app; it's a product designed for scalability and professional aesthetics.
 
 ---
 
-## 🚀 Tech Stack
+## Tech stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -42,7 +42,7 @@ A high-performance EV catalog and comparison platform built with the **MERN stac
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-### Web Development (MERN)
+### Web — MERN Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -55,31 +55,49 @@ A high-performance EV catalog and comparison platform built with the **MERN stac
 
 ---
 
-## 🌟 Featured Projects
+## Featured projects
 
 ### [Rocket Telemetry System](https://github.com/RobertoCV10/Rocket-data-monitoring-interface-using-ESP32-and-LoRa-)
 **Real-time monitoring for experimental rockets**
 Developed a complete telemetry pipeline: ESP32-based data acquisition transmitted via LoRa radio, decoded in Python, and visualized on a live dashboard. Built for low-latency and high reliability under launch conditions.
 
+Built a complete telemetry pipeline for a student-built rocket: ESP32 transmitting flight data over LoRa radio, received and decoded in Python, visualized in a live dashboard. Designed for low-latency, high-reliability data under launch conditions.
+
+`ESP32` `LoRa` `Python` `Real-time systems` `Data visualization`
+
+---
+
 ### [Autonomous Cart with Robotic Arm](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino)
 **ROS + Raspberry Pi + Arduino Control Stack**
 Developed the full software stack for a mobile robot with an integrated arm. Features ROS-based navigation, Arduino motor control, and a manual override interface for reactive obstacle response.
 
----
 
-## 🧠 Engineering Mindset
-
-In robotics, you can't ignore physical constraints. I've learned that true optimization comes from understanding the entire pipeline: from a sensor's sampling rate to how that data is rendered in the frontend.
-
-I apply this systems-thinking to every project, ensuring that the backend is robust and the frontend provides a seamless experience that reflects the underlying data architecture.
+`ROS` `Raspberry Pi 4` `Arduino` `C++` `Python` `Control systems`
 
 ---
+
+### [Zero Trail — EV Catalog](https://github.com/RobertoCV10/PortfolioRCV)
+**Premium electric vehicle database — MERN Stack**
+Full-stack catalog with structured EV data, filtering, and a refined UI. Designed from the ground up with performance and scalability in mind — not just a CRUD app, but a product built to a professional standard.
+
+`MongoDB` `Express` `React` `Node.js` `MUI` `REST API`
+
+---
+
+## GitHub activity
 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCV10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)
 
 </div>
+
+---
+
+## My engineering mindset
+
+In robotics, you can't ignore physical constraints. I've learned that true optimization comes from understanding the entire pipeline: from a sensor's sampling rate to how that data is rendered in the frontend.
+I apply this systems-thinking to every project, ensuring that the backend is robust and the frontend provides a seamless experience that reflects the underlying data architecture.
 
 ---
 
