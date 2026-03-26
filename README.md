@@ -10,24 +10,24 @@
 
 ---
 
-## ⚡ Who I Am
+## ⚡ Quick Summary
 
-I'm a Computational Robotics Engineer with hands-on experience building systems where the physical and digital worlds collide — from autonomous robots navigating real environments to full-stack web platforms handling live telemetry data.
+I am a **Computational Robotics Engineer** focused on the integration of hardware and software. My work ranges from developing autonomous systems for real-world environments to building full-stack web platforms that handle real-time telemetry data.
 
-My edge? I don't just write code. I design complete systems: sensor-to-dashboard pipelines, embedded firmware to cloud APIs, mechanical integration to user interface. That cross-layer thinking is what separates me from pure software or pure hardware engineers.
+I specialize in designing the entire pipeline: from sensor selection and embedded firmware to API development and data visualization dashboards. This end-to-end approach allows me to understand physical hardware constraints and optimize them through efficient software.
 
-Currently finishing my degree at **Universidad Politécnica de Yucatán (UPY)** while shipping production-ready personal projects.
+Currently finishing my degree at **Universidad Politécnica de Yucatán (UPY)** while delivering personal projects built to professional standards.
 
 ---
 
-## 🔭 What I'm Building Right Now
+## 🏗️ Current Work
 
 ### Zero Trail — Electric Vehicle Catalog & Database
-A premium EV catalog and comparison platform built with the MERN stack. Focused on clean data architecture, fast search, and a UI that matches the level of the vehicles it showcases. This project reflects how I approach every product: engineering-grade backend, design-conscious frontend.
+A high-performance EV catalog and comparison platform built with the **MERN stack**. Key focus: solid data architecture, optimized search, and a UI that matches the premium standards of the automotive industry. This isn't just a CRUD app; it's a product designed for scalability and professional aesthetics.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -42,7 +42,7 @@ A premium EV catalog and comparison platform built with the MERN stack. Focused 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-### Web — MERN Stack
+### Web Development (MERN)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -55,36 +55,25 @@ A premium EV catalog and comparison platform built with the MERN stack. Focused 
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🔴 [Rocket Telemetry System](https://github.com/RobertoCV10/Rocket-data-monitoring-interface-using-ESP32-and-LoRa-)
-**Real-time data monitoring for experimental rockets using LoRa & Python**
+### [Rocket Telemetry System](https://github.com/RobertoCV10/Rocket-data-monitoring-interface-using-ESP32-and-LoRa-)
+**Real-time monitoring for experimental rockets**
+Developed a complete telemetry pipeline: ESP32-based data acquisition transmitted via LoRa radio, decoded in Python, and visualized on a live dashboard. Built for low-latency and high reliability under launch conditions.
 
-Built a complete telemetry pipeline for a student-built rocket: ESP32 transmitting flight data over LoRa radio, received and decoded in Python, visualized in a live dashboard. Designed for low-latency, high-reliability data under launch conditions.
-
-`ESP32` `LoRa` `Python` `Real-time systems` `Data visualization`
-
----
-
-### 🤖 [Autonomous Cart with Robotic Arm](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino)
-**Hybrid autonomous/manual control system — ROS + Raspberry Pi + Arduino**
-
-Developed the full software stack for a mobile robot with an integrated arm: ROS-based navigation, Arduino motor control via serial communication, and a manual override interface. Handles both planned path execution and reactive obstacle response.
-
-`ROS` `Raspberry Pi 4` `Arduino` `C++` `Python` `Control systems`
+### [Autonomous Cart with Robotic Arm](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino)
+**ROS + Raspberry Pi + Arduino Control Stack**
+Developed the full software stack for a mobile robot with an integrated arm. Features ROS-based navigation, Arduino motor control, and a manual override interface for reactive obstacle response.
 
 ---
 
-### ⚡ [Zero Trail — EV Catalog](https://github.com/RobertoCV10/PortfolioRCV)
-**Premium electric vehicle database — MERN Stack**
+## 🧠 Engineering Mindset
 
-Full-stack catalog with structured EV data, filtering, and a refined UI. Designed from the ground up with performance and scalability in mind — not just a CRUD app, but a product built to a professional standard.
+In robotics, you can't ignore physical constraints. I've learned that true optimization comes from understanding the entire pipeline: from a sensor's sampling rate to how that data is rendered in the frontend.
 
-`MongoDB` `Express` `React` `Node.js` `MUI` `REST API`
+I apply this systems-thinking to every project, ensuring that the backend is robust and the frontend provides a seamless experience that reflects the underlying data architecture.
 
 ---
-
-## 📊 GitHub Activity
 
 <div align="center">
 
@@ -94,18 +83,10 @@ Full-stack catalog with structured EV data, filtering, and a refined UI. Designe
 
 ---
 
-## 🧠 How I Think About Problems
-
-Most engineers are either hardware-first or software-first. I had to learn both at the same time — you can't do robotics without understanding the full stack from sensor to screen. That's forced me to think in systems: every layer has constraints that affect every other layer, and the best solutions come from understanding all of them.
-
-That mindset carries into web development too. When I build a backend, I'm already thinking about how the frontend will consume it. When I design a UI, I think about the data architecture behind it.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*Open to full-time roles, internships, and interesting problems. Let's build something.*
+*Open to full-time roles, internships, and technical challenges. Let's build.*
 
 </div>
