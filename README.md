@@ -70,4 +70,4 @@ I specialize in bridging the gap between hardware and software, creating autonom
 ---
 
 ##  Connect with me:
-[LinkedIn](www.linkedin.com/in/roberto-coria-vargas-088231309) | [Portfolio]([TU_LINK_DE_PORTAFOLIO](https://portfolio-rcv.vercel.app/)) | [Email](mailto:roberto21coria02@gmail.com)
+[LinkedIn](www.linkedin.com/in/roberto-coria-vargas-088231309) | [Portfolio](https://portfolio-rcv.vercel.app/) | [Email](mailto:roberto21coria02@gmail.com)
