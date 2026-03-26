@@ -12,18 +12,20 @@
 
 ## Quick summary
 
-I am a **Computational Robotics Engineer** focused on the integration of hardware and software. My work ranges from developing autonomous systems for real-world environments to building full-stack web platforms that handle real-time telemetry data.
+Two things guide my approach to building. In robotics, the challenge lies in making the software work within physical limitations: sensors have limits, motors have lag, and the real world doesn't behave like a simulation. This tension is what interests me most about this field, and where I want to continue progressing, toward teams that develop at the level of Boston Dynamics.
 
-I specialize in designing the entire pipeline: from sensor selection and embedded firmware to API development and data visualization dashboards. This end-to-end approach allows me to understand physical hardware constraints and optimize them through efficient software.
+In web development, I value the opposite: the ability to transform an idea into a functional product using only code. Clean architecture, modular structure, and an interface that reflects the quality of the underlying code: that's the standard I set for myself in both areas.
 
-Currently finished my degree at **Universidad Politécnica de Yucatán (UPY)**
+**Recent graduate of the Universidad Politécnica de Yucatán  (UPY).**
 
 ---
 
 ## Current work
 
-### Zero Trail — Electric Vehicle Catalog & Database
-A high-performance EV catalog and comparison platform built with the **MERN stack**. Key focus: solid data architecture, optimized search, and a UI that matches the premium standards of the automotive industry. This isn't just a CRUD app; it's a product designed for scalability and professional aesthetics.
+### [Zero Trail — Electric Vehicle Catalog & Database](https://github.com/RobertoCV10/PortfolioRCV)
+A near-complete EV catalog and comparison platform built with the MERN stack. Structured database of real vehicle data, functional search and filtering, and a UI built to match the premium context of the automotive industry. Currently resolving final bugs before public release.
+
+`MongoDB` `Express` `React` `Node.js` `MUI` `REST API`
 
 ---
 
@@ -59,9 +61,10 @@ A high-performance EV catalog and comparison platform built with the **MERN stac
 
 ### [Rocket Telemetry System](https://github.com/RobertoCV10/Rocket-data-monitoring-interface-using-ESP32-and-LoRa-)
 **Real-time monitoring for experimental rockets**
-Developed a complete telemetry pipeline: ESP32-based data acquisition transmitted via LoRa radio, decoded in Python, and visualized on a live dashboard. Built for low-latency and high reliability under launch conditions.
+Built the full telemetry pipeline for a student rocket: sensor data acquired by an ESP32, transmitted via LoRa, and visualized on a live Python dashboard. LoRa was the natural choice — it's the de facto standard in amateur rocketry for a reason, and WiFi/Bluetooth simply don't hold up at altitude and distance.
 
-Built a complete telemetry pipeline for a student-built rocket: ESP32 transmitting flight data over LoRa radio, received and decoded in Python, visualized in a live dashboard. Designed for low-latency, high-reliability data under launch conditions.
+The hardest part wasn't the transmission itself. With multiple sensors reporting simultaneously, I had to design a lightweight parsing protocol from scratch: each sensor prefixed its value with an identifier (t45 for temperature, and so on), so the receiver could reconstruct the data stream reliably without dropping or misassigning readings.
+
 
 `ESP32` `LoRa` `Python` `Real-time systems` `Data visualization`
 
@@ -69,18 +72,11 @@ Built a complete telemetry pipeline for a student-built rocket: ESP32 transmitti
 
 ### [Autonomous Cart with Robotic Arm](https://github.com/RobertoCV10/Robotic-cart-with-arm-using-ROS-Raspberry-PI-4-and-Arduino)
 **ROS + Raspberry Pi + Arduino Control Stack**
-Developed the full software stack for a mobile robot with an integrated arm. Features ROS-based navigation, Arduino motor control, and a manual override interface for reactive obstacle response.
+Developed the complete control system for a mobile robot with an integrated arm: ROS handling navigation and coordination, Arduino managing motor output, and a Tkinter interface for manual override.
 
+One real constraint I ran into: streaming two cameras simultaneously inside the Tkinter interface wasn't feasible without introducing lag that broke usability. Rather than force it, I wired each camera to launch in an external window triggered from the interface — functional, clean, and honest about the hardware limits.
 
 `ROS` `Raspberry Pi 4` `Arduino` `C++` `Python` `Control systems`
-
----
-
-### [Zero Trail — EV Catalog](https://github.com/RobertoCV10/PortfolioRCV)
-**Premium electric vehicle database — MERN Stack**
-Full-stack catalog with structured EV data, filtering, and a refined UI. Designed from the ground up with performance and scalability in mind — not just a CRUD app, but a product built to a professional standard.
-
-`MongoDB` `Express` `React` `Node.js` `MUI` `REST API`
 
 ---
 
@@ -94,17 +90,17 @@ Full-stack catalog with structured EV data, filtering, and a refined UI. Designe
 
 ---
 
-## My engineering mindset
+## How I work
 
-In robotics, you can't ignore physical constraints. I've learned that true optimization comes from understanding the entire pipeline: from a sensor's sampling rate to how that data is rendered in the frontend.
-I apply this systems-thinking to every project, ensuring that the backend is robust and the frontend provides a seamless experience that reflects the underlying data architecture.
-
+Most of my debugging happens at the boundary between layers — the point where hardware behavior stops matching what the software expects. That's where I'm most comfortable.
+Building these projects meant I couldn't hand off a problem to "the hardware guy" or "the backend guy." When the robot's camera stream lagged, I had to figure out whether it was a USB bandwidth issue, a ROS node bottleneck, or a Tkinter rendering limit. When the rocket's data stream arrived garbled, the fix wasn't in the radio — it was in designing a parsing protocol that could survive a noisy channel.
+That's the way I approach every system: understand the constraints at each layer before assuming the problem is where it first appears.
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*Open to full-time roles, internships, and technical challenges. Let's build.*
+*Open to full-time roles, internships, and problems worth solving.*
 
 </div>
