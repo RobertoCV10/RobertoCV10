@@ -1,4 +1,4 @@
-## Computational Robotics Engineer | Full Stack Developer
+## COMPUTATIONAL ROBOTICS ENGINEER | FULL STACK DEVELOPER
 
 # Hi there, I'm Roberto Coria  
 
