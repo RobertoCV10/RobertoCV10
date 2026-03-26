@@ -1,6 +1,6 @@
 ## Computational Robotics Engineer | Full Stack Developer
 
-# Hi there, I'm Roberto Coria 👋 
+# Hi there, I'm Roberto Coria  
 
 ### ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=probot&logoColor=white) Computational Robotics Engineer | Full Stack Developer
 I specialize in bridging the gap between hardware and software, creating autonomous systems, real-time telemetry, and high-performance web applications.
@@ -8,37 +8,37 @@ I specialize in bridging the gap between hardware and software, creating autonom
 ---
 
 
-## 🚀 About Me
-- 🎓 **Education:** Engineering at Universidad Politécnica de Yucatán (UPY).
-- 🛠️ **Current Focus:** Developing "Zero Trail", a premium electric vehicle catalog and database.
-- 🔭 **Expertise:** Robotics (ROS, 3D modeling, Control systems, Machine learning), Embedded Systems (ESP32, Arduino, Raspberry Pi).
-- ⚡ **Goal:** Building scalable and efficient solutions with a focus on professional UI/UX.
+##  About Me
+- ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=googlescholar&logoColor=white) **Education:** Engineering at Universidad Politécnica de Yucatán (UPY).
+- ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=devbox&logoColor=white) **Current Focus:** Developing "Zero Trail", a premium electric vehicle catalog and database.
+- ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=lightning&logoColor=white) **Expertise:** Robotics (ROS, 3D modeling, Control systems, Machine learning), Embedded Systems (ESP32, Arduino, Raspberry Pi).
+- ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=protodotio&logoColor=white) **Goal:** Building scalable and efficient solutions with a focus on professional UI/UX.
 
 ---
 
-## 🛠️ PORTFOLIO
+## ![Robot](https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=pcgamingwiki&logoColor=white)  PORTFOLIO
 
-### 💻 Portfolio
+### Portfolio
 ### [Web Portfolio](https://portfolio-rcv.vercel.app/)
 
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 Robotics & Embedded Systems
+###  Robotics & Embedded Systems
 ![ROS](https://img.shields.io/badge/ros-%230A0FF5.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-### 🌐 Web Development (MERN)
+###  Web Development (MERN)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,7 +51,7 @@ I specialize in bridging the gap between hardware and software, creating autonom
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### [Zero Trail - EV Catalog](https://github.com/RobertoCV10/PortfolioRCV)
 *A high-end electric vehicle database built with the MERN stack and professional UI.*
@@ -64,10 +64,10 @@ I specialize in bridging the gap between hardware and software, creating autonom
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCV10&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect with me:
+##  Connect with me:
 [LinkedIn](TU_LINK_DE_LINKEDIN) | [Portfolio](TU_LINK_DE_PORTAFOLIO) | [Email](mailto:tu_correo@ejemplo.com)
