@@ -114,9 +114,16 @@ That's the way I approach every system: understand the constraints at each layer
 
 ---
 
-## Activity
+## Language proficiency
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCV10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)
+| Language | Proficiency | Primary use |
+|----------|-------------|------------|
+| Python | Advanced | Robotics, data visualization, automation |
+| C++ | Advanced | Embedded systems, ROS nodes, performance-critical code |
+| JavaScript | Proficient | Full-stack web development, React applications |
+| HTML/CSS | Proficient | Frontend design, responsive interfaces |
+
+**Most active in:** Python and C++ for robotics projects; JavaScript/React for web applications
 
 ---
 
